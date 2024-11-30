@@ -1,1 +1,28 @@
 This is my test file
+9  git clone
+  110  git clone https://github.com/srivi11/test-p.git
+  111  ls
+  112  ls test-p
+  113  git pull origin main
+  114  cd test-p
+  115  ls test-p
+  116  git pull origin main
+  117  ls
+  118  git config--list
+  119  git config --list
+  120  git config --global user. name "ravi"
+  121  git config --global user.name "srivi11"
+  122  git config --global user.email "raviteegala29@gmail.com"
+  123  git status
+  124  git config --list
+  125  git add dev1
+  126  git add dev1
+  127  git add dev1.text
+  128  git status
+  129  git add devtest
+  130  git add devtest.txt
+  131  git status
+  132  git commit -m "adding devtest"
+  133  git push origin main
+  134  istoryo
+  135  history
